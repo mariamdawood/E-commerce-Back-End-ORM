@@ -23,7 +23,7 @@ This application is a back end for an e-commerce website built using Express.js 
 ## Installation
 - Clone repository
 - Run 'npm install' to install required dependencies.
-- Run 'mpm install nodemon@latest mysql2@latest sequelize@latest dotenv@latest' to install required packages.
+- Run 'npm install nodemon@latest mysql2@latest sequelize@latest dotenv@latest' to install required packages.
 - Update the 'config/connection.js' file with your MySQL details.
 - Open your terminal, log in to MySQL with 'mysql -u your_username -p', and enter your MySQL password.
 - In MySQL, import the database schema using 'source db/schema.sql;'.
