@@ -4,7 +4,7 @@
 This application is a back end for an e-commerce website built using Express.js and Sequelize to interact with a MySQL database. It includes API routes for managing tags, products, and categories. The application ensures secure data handling with environment variables for sensitive information and establishes model associations for seamless data relationships. The provided walkthrough video demonstrates the functionality, including database schema creation, seeding, and API testing using Insomnia.
 
 ## Walkthrough Video
-[E-commerce Back End ORM](Link)
+[E-commerce Back End ORM](https://drive.google.com/file/d/1_luKgkt8B40mtiSJ8HE1CjULAXsL_PmP/view?usp=drive_link)
 
 ## Screenshot
 ![Get All Products](./assets/images/1.png)
